@@ -49,7 +49,7 @@ main{
 
  .main-ul>li {
    /* font-size: 1.2rem; */
-   padding: 10px;
+   padding: 20px;
    list-style: none;
  }
 
@@ -496,7 +496,7 @@ main{
   }
   
   .align8{
-    margin-left: 30% !important;
+    margin-left: 55% !important;
   }
   
   .keerthana{
@@ -506,7 +506,7 @@ main{
     margin-left: 35% !important;
   }
   .align9{
-    margin-left: 40% !important;
+    margin-left: 70% !important;
   }
   .col-md-5{
      margin-left: 10% !important;
@@ -530,7 +530,7 @@ main{
     margin-left:10% !important;
   }
   .align7{
-    margin-left: 30% !important;
+    margin-left: 50% !important;
   }
   
    .col-sm-5 {
@@ -557,7 +557,7 @@ main{
     margin-left: 15% ;
   }
   .col-md-8{
-    margin-left:25% !important;
+    margin-left:35% !important;
   }
 
   .align4{
@@ -636,12 +636,14 @@ main{
     /* height: 30px;
     width: 205px; */
     color: #000;
-    font-family: "Google Sans";
+    font-family: 'Banny',
+'Banny',
+      sans-serif;
     font-size: 20px;
     /* letter-spacing: 0.16px;
     line-height: 16px; */
     text-align: center;
-    margin-left: 30% !important;
+    margin-left: 55% !important;
     margin-top: 40px;
     
   }
@@ -649,19 +651,22 @@ main{
     /* height: 30px;
     width: 205px; */
     color: #000;
-  
-    font-family: "Google Sans";
+    font-family: 'Banny',
+'Banny',
+      sans-serif;
     font-size: 20px;
     /* letter-spacing: 0.16px;
     line-height: 16px; */
     margin-top: 40px;
-     margin-left:30% !important;
+     margin-left:50% !important;
   }
   .ml-lead {
     height: 9.98px;
     width: 75px;
     color: #000;
-    font-family: "Google Sans";
+    font-family: 'Banny',
+'Banny',
+      sans-serif;
     font-size: 10px;
     line-height: 10px;
     text-align: center;
@@ -670,7 +675,9 @@ main{
     height: 9.98px;
     width: 75px;
     color: #000;
-    font-family:"Google Sans";
+    font-family:'Banny',
+'Banny',
+      sans-serif;
     font-size: 10px;
     line-height: 10px;
     text-align: center;
@@ -679,7 +686,9 @@ main{
     height: 9.98px;
     width: 75px;
     color: #000;
-    font-family:"Google Sans";
+    font-family:'Banny',
+'Banny',
+      sans-serif;
     font-size: 10px;
     line-height: 10px;
     text-align: center;
@@ -688,7 +697,9 @@ main{
     height: 9.98px;
     width: 75px;
     color: #000;
-    font-family:"Google Sans";
+    font-family:'Banny',
+'Banny',
+      sans-serif;
     font-size: 10px;
     line-height: 10px;
     text-align: center;
@@ -697,7 +708,9 @@ main{
     height: 9px;
     width: 70px;
     color: #000;
-    font-family: "Google Sans";
+    font-family: 'Banny',
+'Banny',
+      sans-serif;
     font-size: 10px;
     letter-spacing: 0.1px;
     line-height: 10px;
@@ -707,7 +720,9 @@ main{
     height: 9px;
     width: 70px;
     color: #000;
-    font-family: "Google Sans";
+    font-family: 'Banny',
+'Banny',
+      sans-serif;
     font-size: 10px;
     letter-spacing: 0.1px;
     line-height: 10px;
@@ -717,7 +732,9 @@ main{
       height: 9px;
       width: 70px;
       color: #000;
-      font-family: "Google Sans";
+      font-family: 'Banny',
+'Banny',
+      sans-serif;
       font-size: 9px;
       letter-spacing: 0.1px;
       line-height: 10px;
@@ -728,7 +745,9 @@ main{
     height: 9.98px;
     width: 75px;
     color:#000;
-    font-family: "Google Sans";
+    font-family: 'Banny',
+'Banny',
+      sans-serif;
     font-size: 10px;
     line-height: 10px;
     text-align: center;
@@ -755,7 +774,9 @@ main{
    .web-development-tea {
 
      color: #000;
-     font-family: "Google Sans";
+     font-family: 'Banny',
+'Banny',
+      sans-serif;
      font-size: 20px;
      /* letter-spacing: 0.16px;
     line-height: 16px; */
@@ -779,7 +800,8 @@ main{
      /* height: 30px;
     width: 205px; */
      color: #000;
-     font-family: "Google Sans";
+     font-family: 'Banny',
+      sans-serif;
      font-size: 20px;
      /* letter-spacing: 0.16px;
     line-height: 16px; */
@@ -805,14 +827,15 @@ main{
     width: 205px; */
       color: #000;
 
-      font-family: "Google Sans";
+      font-family: 'Banny',
+      sans-serif;
       font-size: 20px;
       /* letter-spacing: 0.16px;
     line-height: 16px; */
       margin-left: 4% !important;
     }
      .align8 {
-       margin-left: 5% !important;
+       margin-left: 10% !important;
      }
 
      .keerthana {
