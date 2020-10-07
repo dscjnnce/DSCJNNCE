@@ -6,7 +6,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,minimum-scale=1.0">
     
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link rel="stylesheet" type=text/css href="./videos.css">
@@ -14,17 +14,17 @@
 </head>
 
 <body>
-
+<main>
     <!-- Main Navigation Bar -->
     <nav class="main-nav sticky-nav-bar">
 
         <!-- DSC JNNCE Logo -->
 
         <div class="main-logo">
-            <a href="#"><img id="image-display" src="img/logo.jpg" alt="DSC Logo JNNCE"></a>
+            <a href="index.html"><img  src="img/logo.jpg" alt="DSC Logo JNNCE"></a>
         </div>
 
-        <ul class=" main-ul">
+        
               <ul class=" main-ul">
                   <li class="menu-class a-hover-effect" id="home-id"><a href="index.html">Home</a></li>
                   <li class="menu-class a-hover-effect" id="team-id"><a href="card.html">Team</a></li>
@@ -33,22 +33,23 @@
                   <li class="menu-class a-hover-effect" id="eureka-id"><a
                           href="eureka.HTML">Eureka</a>
                   </li>
-                  <li class="menu-class a-hover-effect" id="video-id"><a href="">Video</a></li>
+                  <li class="menu-class a-hover-effect" id="video-id"><a href="#">Video</a></li>
                   <li class="menu-class a-hover-effect" id="contact-id"><a href="index.html#cont">Contact Us</a>
                   </li>
               </ul>
-
+                 <!-- Mobile Navigation -->
+                 <div class="burger-logo">
+                     <div class="line1"></div>
+                     <div class="line2"></div>
+                     <div class="line3"></div>
+                 </div>
 
         
-        <!-- Mobile Navigation -->
-        <div class="burger-logo">
-            <div class="line1"></div>
-            <div class="line2"></div>
-            <div class="line3"></div>
-        </div>
+       
 
     </nav>
-
+    <script type=text/javascript src="index.js"></script>
+</main>
     <header>
         <div class="headline">
             Stories from the Community
@@ -123,7 +124,7 @@
 
 
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-    <script type=text/javascript src="index.js"></script>
+    
     <script>
         
         AOS.init();

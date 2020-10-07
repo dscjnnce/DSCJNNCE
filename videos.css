@@ -20,15 +20,15 @@ body{
     
 }
 
-.main-logo{
-    width:70vh;
+.main-logo {
+    padding: 15px;
+    width: 100vh;
 }
 
-.main-logo  img{
-    
-    transform: translateX(30%);
-    max-width: 90%;
-    height: 70px;
+.main-logo img {
+    transform: translateX(10%);
+    max-width: 100%;
+    height: auto;
 }
 
 .main-ul{
@@ -63,17 +63,16 @@ a{
     cursor: pointer;
 }
 
-.burger-logo div{
-   display:flex;
-   justify-content: space-around;
-   background-color: #3a3939;
-   width:25px;
-   height:2px;
-   margin:5px;
-   transform :translateY(2vh);
-   transition: all 0.3s ease;
+.burger-logo div {
+    display: flex;
+    justify-content: space-around;
+    background-color: #3a3939;
+    width: 25px;
+    height: 2px;
+    margin: 5px;
+    transform: translateY(27px);
+    transition: all 0.3s ease;
 }
-
 .sticky-nav-bar{
     position: fixed;
     top:0;
@@ -97,14 +96,13 @@ header{
      line-height: 150%;
 }
 
-/* 
-.grid-container{
-   display:block;
-    border:1px solid grey;
-    padding:20px;
-    margin:20px 40vh;
-    border-radius: 20px;
-} */
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 2fr));
+    gap: 10px;
+    /* margin:20px 10px; */
+}
+
 
 .videos{
     display:block;
@@ -182,7 +180,8 @@ iframe{
     .main-logo{
         transform: translateX(-30%);
         max-width: 100%;
-        padding-left: 80px;
+        height: 30px;
+        padding-left: 130px;
         
     }
 
@@ -206,7 +205,7 @@ iframe{
     }
 
     .menu-class{
-      /*  border-top:2px solid #000000;
+       /* border-top:2px solid #000000;
         border-right: 2px solid #000000;
         border-bottom: 2px solid #000000; */
         
@@ -224,12 +223,20 @@ iframe{
         font-weight: normal;
     }
     
-    .burger-logo{
-        display: block;
-        position: relative;
-        transform: translateX(-100%);
-    }
-
+   .burger-logo {
+       display: block;
+       position: relative;
+       transform: translateX(-100%);
+       /* transform: translateY(-10px); */
+   }
+   .grid {
+       display: grid;
+       grid-template-columns: repeat(auto-fill, minmax(350px, 2fr));
+       gap: 20px;
+       box-sizing: border-box;
+       max-width: 100%;
+       /* margin:20px 10px; */
+   }
     .videos{
         margin:auto 20px;
     }

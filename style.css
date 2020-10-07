@@ -16,17 +16,20 @@ html{
 }
 .wrapper {
     width: 100%;
-    margin: 10px auto;
+    margin: 8px auto;
+    text-align:center;
+    
   }
   .row {
-
-    display: table;
+    padding-left: 400px;
+    display: flex;
+    flex-direction: row;
     width: 100%;
-    table-layout: fixed;
+    position: relative;
     margin-bottom: 1em;
   }
   .cell {
-      display: table-cell;
+      
     padding:.5em;
 
   }
@@ -191,13 +194,29 @@ a {
     }
 
     
-    .row,
-  .cell
-  {
-    padding-left: 45%;
-    
+   .wrapper {
+       width: 100%;
+       margin: 8px auto;
+       text-align: center;
+
+   }
+
+   .row {
+       padding-left: 1px;
+       display: flex;
+       flex-direction: column;
+       width: 100%;
+       position: relative;
+       margin-bottom: 1em;
+   }
+
+   .cell {
+
+       padding: .5em;
+
+   }
   }
-    }
+    
 
     
     .activate-nav-mobile {
