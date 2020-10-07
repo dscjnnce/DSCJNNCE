@@ -16,12 +16,12 @@ html{
 }
 .wrapper {
     width: 100%;
-    margin: 8px auto;
+    margin: px auto;
     text-align:center;
     
   }
   .row {
-    padding-left: 400px;
+    padding-left: 200px;
     display: flex;
     flex-direction: row;
     width: 100%;
@@ -30,7 +30,8 @@ html{
   }
   .cell {
       
-    padding:.5em;
+    padding:25px;
+
 
   }
 /* 
