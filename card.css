@@ -49,7 +49,7 @@ main{
 
  .main-ul>li {
    /* font-size: 1.2rem; */
-   padding: 20px;
+   padding: 10px;
    list-style: none;
  }
 
@@ -472,7 +472,8 @@ main{
         height: 5.21px;
       
       color: #000;
-      font-family: "Google Sans";
+      font-family: 'Banny',
+      sans-serif;
       font-size: 10px;
   }
   .github{
@@ -495,7 +496,7 @@ main{
   }
   
   .align8{
-    margin-left: 55% !important;
+    margin-left: 30% !important;
   }
   
   .keerthana{
@@ -505,7 +506,7 @@ main{
     margin-left: 35% !important;
   }
   .align9{
-    margin-left: 70% !important;
+    margin-left: 40% !important;
   }
   .col-md-5{
      margin-left: 10% !important;
@@ -529,7 +530,7 @@ main{
     margin-left:10% !important;
   }
   .align7{
-    margin-left: 50% !important;
+    margin-left: 30% !important;
   }
   
    .col-sm-5 {
@@ -556,7 +557,7 @@ main{
     margin-left: 15% ;
   }
   .col-md-8{
-    margin-left:35% !important;
+    margin-left:25% !important;
   }
 
   .align4{
@@ -566,7 +567,9 @@ main{
     /* height: 50px;
     width: 210px; */
     color: #000;
-    font-family: "Google Sans Bold";
+    font-family: 'Banny',
+    sans-serif;
+    
     font-size: 40px;
     /* letter-spacing: 0.1px;
     line-height: 22px; */
@@ -638,7 +641,7 @@ main{
     /* letter-spacing: 0.16px;
     line-height: 16px; */
     text-align: center;
-    margin-left: 55% !important;
+    margin-left: 30% !important;
     margin-top: 40px;
     
   }
@@ -652,7 +655,7 @@ main{
     /* letter-spacing: 0.16px;
     line-height: 16px; */
     margin-top: 40px;
-     margin-left:50% !important;
+     margin-left:30% !important;
   }
   .ml-lead {
     height: 9.98px;
@@ -809,7 +812,7 @@ main{
       margin-left: 4% !important;
     }
      .align8 {
-       margin-left: 10% !important;
+       margin-left: 5% !important;
      }
 
      .keerthana {
