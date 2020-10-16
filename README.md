@@ -21,4 +21,6 @@ The intents were answered by communication team in order to distribute work acco
 DEPLOYMENT: The deployment of chatbot is performed by Yashas Vinay, Neha A Gingade and Gowri H R & Abhishek J M.
 PROMOTION: We would like to thank our Marketing lead Arpitha Ag and Graphic Designing lead Anupa Kini and their team members to promote the event by making eye catchy posters and banners and upload them on DSC-JNNCE social media.
 
+Chekout the Chatbot in the Website Project Portal. 
+
 
