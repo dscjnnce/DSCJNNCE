@@ -629,7 +629,7 @@ main{
     text-align: center;
     
     padding-top: 10px;
-    margin-left: 10% !important;
+   /* margin-left: 10% !important; */
     
   }
   .communication-team {
@@ -643,7 +643,7 @@ main{
     /* letter-spacing: 0.16px;
     line-height: 16px; */
     text-align: center;
-    margin-left: 55% !important;
+  /*  margin-left: 55% !important; */
     margin-top: 40px;
     
   }
@@ -658,7 +658,7 @@ main{
     /* letter-spacing: 0.16px;
     line-height: 16px; */
     margin-top: 40px;
-     margin-left:50% !important;
+    /* margin-left:50% !important; */
   }
   .ml-lead {
     height: 9.98px;
@@ -856,4 +856,58 @@ main{
 }
 #coders1{
       color:#FFF;
+}
+
+/* css modified by anupa */
+.rectangle-57{
+  margin-top: 10px;
+  z-index: -1;
+}
+
+.id-card{
+  width: 90px;
+  padding-left: 5px;
+  padding-top: 10px;
+  height: 144.7px;
+}
+
+.id-card2{
+  height: 129.5px;
+
+}
+
+.technical-lead{
+  padding-top: 3px;
+}
+
+.ml-lead{
+  padding-top: 3px;
+}
+
+.ar-vr-lead{
+  padding: 3px;
+}
+
+.graphic-lead{
+  padding: 3px;
+}
+
+.lead2{
+  padding: 1px;
+}
+
+.lead{
+  padding: 3px;
+}
+
+.team-member{
+  padding: 3px;
+}
+
+.marketing-team{
+  margin-top: 78px;
+}
+
+.name{
+  font-size: 11px;
 }
